@@ -1,0 +1,9 @@
+body,h1,div,p,span,header,footer,main,section,a,ul,li,button{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway';
+	font-size: 20px;
+	font-weight: 400;
+	text-decoration: none;
+	color: black;
+}
